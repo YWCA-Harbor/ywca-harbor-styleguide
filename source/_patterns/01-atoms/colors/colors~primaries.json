@@ -1,0 +1,12 @@
+{
+    "colors": [
+        {
+            "sass-variable": "$primaryOrange",
+            "hex-code": "#fa4616"
+        },
+        {
+            "sass-variable": "$secondaryOrange",
+            "hex-code": "#d83105"
+        }
+    ]
+}

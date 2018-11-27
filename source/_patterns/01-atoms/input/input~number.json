@@ -1,0 +1,11 @@
+{
+    "inputs": [
+        {
+            "type": "number",
+            "value": "value=\"1234567890\"",
+            "for": "number",
+            "required": "required",
+            "display": "block"
+        }
+    ]
+}

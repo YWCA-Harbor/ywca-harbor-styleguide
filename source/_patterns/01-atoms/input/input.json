@@ -1,0 +1,9 @@
+{
+    "inputs": [
+        {
+            "type": "text",
+            "value": "value=\"Input field\"",
+            "display": "none"
+        }
+    ]
+}

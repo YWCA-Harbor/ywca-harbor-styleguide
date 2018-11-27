@@ -1,0 +1,33 @@
+{{#inputs}}
+<div style="display:{{{display}}}">
+    <label for="{{{for}}}" class="{{{required}}}">{{{for}}}</label>
+    <input type="{{{type}}}" id="{{{for}}}" {{{name}}} {{{value}}}>
+</div>
+{{/inputs}}
+
+{{#inputs-radios}}
+<!-- For Radio Button -->
+<label for="{{{name}}}">
+<input type="{{{type}}}" id="{{{name}}}" name="{{{name}}}" {{{value}}}>
+<div class="price box">
+    <span>${{{name}}}</span>
+</div>
+</label>
+<!-- End Radio Button -->
+{{/inputs-radios}}
+
+{{#inputs-checkboxes}}
+<!-- For Checkboxes -->
+<input type="{{{type}}}" id="{{{name}}}" name={{{name}}} {{{value}}}>
+<label for="{{{name}}}">
+    <span>
+        <svg width="12px" height="10px" viewbox="0 0 12 10">
+        <polyline points="1.5, 6, 4.5, 9, 10.5, 1"/>
+        </svg>
+    </span>
+    <span>
+        {{{text}}}
+    </span>
+</label>
+<!-- End Checkboxes -->
+{{/inputs-checkboxes}}

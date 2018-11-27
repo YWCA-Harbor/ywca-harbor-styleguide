@@ -1,0 +1,11 @@
+{
+    "inputs": [
+        {
+            "type": "text",
+            "value": "value=\"Input field\"",
+            "for": "text",
+            "required": "required",
+            "display": "block"
+        }
+    ]
+}

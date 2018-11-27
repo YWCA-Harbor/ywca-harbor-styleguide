@@ -1,0 +1,11 @@
+{
+    "inputs": [
+        {
+            "type": "email",
+            "value": "value=\"gmail@email.com\"",
+            "for": "email",
+            "required": "required",
+            "display": "block"
+        }
+    ]
+}

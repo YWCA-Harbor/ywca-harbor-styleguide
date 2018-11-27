@@ -1,0 +1,44 @@
+{
+    "colors": [
+        {
+            "sass-variable": "$lightWhite",
+            "hex-code": "#f3f3f3"
+        },
+        {
+            "sass-variable": "$mediumWhite",
+            "hex-code": "#eeeeee"
+        },
+        {
+            "sass-variable": "$darkWhite",
+            "hex-code": "#d9d9d9"
+        },
+        {
+            "sass-variable": "$lightGrey",
+            "hex-code": "#bbbbbb"
+        },
+        {
+            "sass-variable": "$lightMediumGrey",
+            "hex-code": "#a2a2a2"
+        },
+        {
+            "sass-variable": "$lightDarkGrey",
+            "hex-code": "#8b8b8b"
+        },
+        {
+            "sass-variable": "$mediumLightGrey",
+            "hex-code": "#666666"
+        },
+        {
+            "sass-variable": "$mediumGrey",
+            "hex-code": "#5e5e5e"
+        },
+        {
+            "sass-variable": "$mediumDarkGrey",
+            "hex-code": "#494949"
+        },
+        {
+            "sass-variable": "$darkGrey",
+            "hex-code": "#303030"
+        }
+    ]
+}

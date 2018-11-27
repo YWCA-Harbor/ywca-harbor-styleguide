@@ -1,0 +1,8 @@
+{
+    "inputs": [
+        {
+            "type": "reset",
+            "display": "block"
+        }
+    ]
+}

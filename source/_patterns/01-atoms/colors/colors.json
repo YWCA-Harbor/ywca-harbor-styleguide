@@ -1,0 +1,44 @@
+{
+    "chapter-colors": [
+        {
+            "sass-variable": "$primaryOrange",
+            "hex-code": "#ff6600"
+        },
+        {
+            "sass-variable": "$listItemOrange",
+            "hex-code": "#d56312"
+        },
+        {
+            "sass-variable": "$navyText",
+            "hex-code": "#2d3e50"
+        },
+        {
+            "sass-variable": "$footerNavy",
+            "hex-code": "#2f4449"
+        },
+        {
+            "sass-variable": "$lightGrey",
+            "hex-code": "#8b8b8b"
+        },
+        {
+            "sass-variable": "$mediumGrey",
+            "hex-code": "#5e5e5e"
+        },
+        {
+            "sass-variable": "$darkGrey",
+            "hex-code": "#333333"
+        },
+        {
+            "sass-variable": "$whiteOpacity",
+            "hex-code": "rgba(255,255,255,0.85)"
+        },
+        {
+            "sass-variable": "$greyOpacity",
+            "hex-code": "rgba(73, 73, 73, 0.85)"
+        },
+        {
+            "sass-variable": "$blackOpacity",
+            "hex-code": "rgba(22,22,22,0.5)"
+        }
+    ]
+}

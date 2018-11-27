@@ -1,0 +1,29 @@
+{
+    "inputs-radios": [
+        {
+            "type": "radio",
+            "display": "block",
+            "name": "25"
+        },
+        {
+            "type": "radio",
+            "display": "block",
+            "name": "50"
+        },
+        {
+            "type": "radio",
+            "display": "block",
+            "name": "100"
+        },
+        {
+            "type": "radio",
+            "display": "block",
+            "name": "150"
+        },
+        {
+            "type": "radio",
+            "display": "block",
+            "name": "250"
+        }
+    ]
+}

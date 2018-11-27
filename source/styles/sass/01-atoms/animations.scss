@@ -1,0 +1,7 @@
+%transitions {
+    transition: all .2s ease-in-out;
+}
+
+@keyframes wave {
+    50% { transform: scale(.9) };
+}

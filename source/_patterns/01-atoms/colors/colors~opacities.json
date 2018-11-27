@@ -1,0 +1,20 @@
+{
+    "colors": [
+        {
+            "sass-variable": "$whiteOpacity",
+            "hex-code": "rgba(255,255,255,0.85)"
+        },
+        {
+            "sass-variable": "$mediumWhiteOpacity",
+            "hex-code": "rgba(238,238,238,0.7)"
+        },
+        {
+            "sass-variable": "$mediumDarkGreyOpacity",
+            "hex-code": "rgba(73, 73, 73, 0.85)"
+        },
+        {
+            "sass-variable": "$blackOpacity",
+            "hex-code": "rgba(22,22,22,0.5)"
+        }
+    ]
+}

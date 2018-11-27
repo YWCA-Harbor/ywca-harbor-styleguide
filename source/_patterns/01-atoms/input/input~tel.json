@@ -1,0 +1,11 @@
+{
+    "inputs": [
+        {
+            "type": "tel",
+            "value": "value=\"1234567890\"",
+            "for": "tel",
+            "required": "required",
+            "display": "block"
+        }
+    ]
+}
