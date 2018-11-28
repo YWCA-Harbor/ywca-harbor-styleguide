@@ -24,6 +24,11 @@ label {
     text-transform: uppercase;
 }
 
+a.social-icon {
+    display: inline-flex !important;
+    margin: 0 12px;
+}
+
 body.pl-c-body.pl-c-body--theme-density-cozy {
     background: #000 !important;
 

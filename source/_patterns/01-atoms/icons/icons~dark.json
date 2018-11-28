@@ -1,0 +1,20 @@
+{
+    "icons": [
+        {
+            "class": "dark",
+            "icon": "facebook-f"
+        },
+        {
+            "class": "dark",
+            "icon": "instagram"
+        },
+        {
+            "class": "dark",
+            "icon": "snapchat"
+        },
+        {
+            "class": "dark",
+            "icon": "linkedin-in"
+        }
+    ]
+}
