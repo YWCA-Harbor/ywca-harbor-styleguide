@@ -2,19 +2,23 @@
     "footer-style": [
         {
             "shade": "light",
-            "shape-color": "round-primary"
+            "shape": "round",
+            "color": "dark"
         },
         {
             "shade": "light",
-            "shape-color": "round-dark"
+            "shape": "round",
+            "color": "primary"
         },
         {
             "shade": "light",
-            "shape-color": "square-primary"
+            "shape": "square",
+            "color": "dark"
         },
         {
             "shade": "light",
-            "shape-color": "square-dark"
+            "shape": "square",
+            "color": "primary"
         }
     ]
 }
