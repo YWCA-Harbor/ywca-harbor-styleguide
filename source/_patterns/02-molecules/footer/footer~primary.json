@@ -1,0 +1,20 @@
+{
+    "footer-style": [
+        {
+            "shade": "primary",
+            "shape-color": "round-light"
+        },
+        {
+            "shade": "primary",
+            "shape-color": "round-dark"
+        },
+        {
+            "shade": "primary",
+            "shape-color": "square-light"
+        },
+        {
+            "shade": "primary",
+            "shape-color": "square-dark"
+        }
+    ]
+}
